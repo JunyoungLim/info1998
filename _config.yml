@@ -17,8 +17,8 @@ title: INFO 1998
 email: jl3248@cornell.edu
 description: > # this means to ignore newlines until "baseurl:"
   Introduction to Machine Learning for Python, Fall 2018
-baseurl: "info1998" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/info1998" # the subpath of your site, e.g. /blog
+url: "junyounglim.github.io" # the base hostname & protocol for your site
 bootswatch_theme: no_theme
 plugin:
   - jekyll-seo-tag
