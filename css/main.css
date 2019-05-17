@@ -73,11 +73,31 @@ li {
   font-weight: 300;
 }
 
+.description-text {
+  font-size: small;
+}
+
 /*
 blockquote {
   border-left-color: #F9EEB6;
 }
 */
+
+/* Panel */
+.panel-cds {
+  border-color: #eaeef5;
+  border-width: thin;
+}
+
+.panel-heading {
+  background-color: #eaeef5;
+}
+
+.panel-title {
+  padding: 0.5rem 0rem;
+  font-size: small;
+  color: #1f4480;
+}
 
 /* Table */
 .table-responsive table tr td {
@@ -87,7 +107,6 @@ blockquote {
 .table-responsive table tr th {
   vertical-align: middle;
 }
-
 
 /* Misc Components */
 .slide-image {

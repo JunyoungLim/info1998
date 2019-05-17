@@ -1,4 +1,22 @@
 title: "Spring 2018"
+description: "Introduction to Machine Learning for Python. It was the semester when we rebranded the CDS Education team."
+team:
+  -
+    title: "Education Lead"
+    members:
+      - Jared Junyoung Lim (CS '20)
+  -
+    title: "Lecturers"
+    members:
+      - Jared Junyoung Lim (CS '20)
+      - Abby Beeler (CS '20)
+  -
+    title: "TAs"
+    members:
+      - Ann Zhang (CS & Econ '20)
+      - Ethan Cohen (INFO '19)
+      - Ryan Kannanaikal (MATH '20)
+      - Shubhom Bhattacharya (ECE '20)
 lectures:
   ######################################## Week 0 #########################################
   -

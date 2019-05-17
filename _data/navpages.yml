@@ -10,3 +10,5 @@
 - path: https://cmsx.cs.cornell.edu/
   name: CMS
   external: true
+- path: archives.md
+  name: Archives

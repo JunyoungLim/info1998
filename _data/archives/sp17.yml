@@ -1,20 +1,26 @@
-title: "Spring 2018"
-lectures:
-  ######################################## Week 0 #########################################
+title: "Spring 2017"
+description: "CDS Training Program. Data Analysis and Machine Learning were taught in R. It was the first semester we launched this course."
+team:
   -
-    date: 2018-02-07
-    title:
-    contents:
-    notes:
-      -
-        title: "LECTURE 0: SETUP"
-        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 0 - INTRO.ipynb"
-    assignments:
-
+    title: "Education Lead"
+    members:
+      - Dae Won Kim (ORIE '17)
+  -
+    title: "Lecturer"
+    members:
+      - Dae Won Kim (ORIE '17)
+  -
+    title: "TAs"
+    members:
+      - Amit Mizrahi (CS '18)
+      - Chase Thomas (INFO '19)
+      - Jared Junyoung Lim (CS '20)
+      - Kenta Takatsu (CS '19)
+lectures:
   ######################################## Week 1 #########################################
   -
-    date: 2018-02-14
-    title: "Lecture 1: Introduction and Data Manipulation"
+    date: 2017-02-15
+    title: "Lecture 1: Introduction to R"
     contents:
       -
         title: "LECTURE 1: SLIDES"
@@ -33,7 +39,7 @@ lectures:
 
   ######################################## Week 2 #########################################
   -
-    date: 2018-02-21
+    date: 2017-02-22
     title: "Lecture 2: Manipulation Techniques and Visualization"
     contents:
       -
@@ -56,7 +62,7 @@ lectures:
 
   ######################################## Week 3 #########################################
   -
-    date: 2018-02-28
+    date: 2017-03-01
     title: "Lecture 3: Introduction to Machine Learning"
     contents:
       -
@@ -73,7 +79,7 @@ lectures:
   
   ######################################## Week 4 #########################################
   -
-    date: 2018-03-07
+    date: 2017-03-08
     title: "Lecture 4: Introduction to Classification"
     contents:
       -
@@ -96,7 +102,7 @@ lectures:
   
   ######################################## Week 5 #########################################
   -
-    date: 2018-03-14
+    date: 2017-03-22
     title: "Lecture 5: SVM"
     contents:
       -
@@ -116,7 +122,7 @@ lectures:
   
   ######################################## Week 6 #########################################
   -
-    date: 2018-03-21
+    date: 2017-03-29
     title: "Lecture 6: Logistic Regression and Decision Trees"
     contents:
       -
@@ -136,7 +142,7 @@ lectures:
 
   ######################################## Week 7 #########################################
   -
-    date: 2018-03-28
+    date: 2017-04-12
     title: "Lecture 7: Unsupervised Learning"
     contents:
       -
@@ -156,7 +162,7 @@ lectures:
 
   ######################################## Week 8 #########################################
   -
-    date: 2018-04-11
+    date: 2017-04-19
     title: "Lecture 8: Model Optimization"
     contents:
       -
@@ -173,7 +179,47 @@ lectures:
   
   ######################################## Week 9 #########################################
   -
-    date: 2018-04-18
+    date: 2017-04-26
+    title: "Lecture 9: Cross Validation & Ensemble Learning"
+    contents:
+      -
+        title: "LECTURE 9: SLIDES"
+        link: "resources/SP18/slides/LECTURE 9.pdf"
+    notes:
+      -
+        title: "LECTURE 9: ENSEM"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 9 - ENSEM.ipynb"
+      -
+        title: "LECTURE 9: BAG"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 9 - BAG.ipynb"
+    assignments:
+      -
+        title: "Final Project"
+        link: "resources/SP18/assignments/Final Project.pdf"
+
+  ######################################## Week 10 #########################################
+  -
+    date: 2017-05-03
+    title: "Lecture 9: Cross Validation & Ensemble Learning"
+    contents:
+      -
+        title: "LECTURE 9: SLIDES"
+        link: "resources/SP18/slides/LECTURE 9.pdf"
+    notes:
+      -
+        title: "LECTURE 9: ENSEM"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 9 - ENSEM.ipynb"
+      -
+        title: "LECTURE 9: BAG"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 9 - BAG.ipynb"
+    assignments:
+      -
+        title: "Final Project"
+        link: "resources/SP18/assignments/Final Project.pdf"
+
+  ######################################## Week 11 #########################################
+  -
+    date: 2017-05-10
     title: "Lecture 9: Cross Validation & Ensemble Learning"
     contents:
       -

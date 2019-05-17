@@ -1,6 +1,22 @@
 <div>
-  {% for schedule in site.data.schedules %}
-  <h3 class="schedule-title">{{ schedule.title }}</h3>
+  {% assign schedule = include.schedule %}
+  <h3>{{ schedule.title }}</h3>
+    <p>
+      {% if schedule.description or schedule.team %}
+        {% if schedule.description %}{{ schedule.description }}<br/><br/>{% endif %}
+        {% for position in schedule.team %}
+          {{ position.title }}:
+            {% for member in position.members %}
+              {% unless forloop.last %}
+                {{ member }},
+              {% endunless %}
+            {% endfor %}
+            {{ position.members.last }}
+          <br/>
+        {% endfor %}
+        <hr>
+      {% endif %}
+    </p>
     <div class="table-responsive">
       <table class="table">
         <colgroup>
@@ -64,5 +80,4 @@
         {% endfor %}
       </table>
     </div>
-  {% endfor %}
 </div>

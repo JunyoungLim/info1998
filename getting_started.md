@@ -7,7 +7,11 @@ To work on the assignments and project, you will need to have a proper setup for
 
 ----------------------------------------------------------------------------------------
 ### Which version of Python do I need?
-Both Python2 and Python3 work well with Jupyter Notebook and Machine Learning libraries, but for this course, we will use Python3. Any version of Python above 3.5.x will work with the course. You can verify the
+Both Python2 and Python3 work well with Jupyter Notebook and Machine Learning libraries, but for this course, we will use Python3. Any version of Python above 3.5.x will work with the course. You can verify the Python version by running the following command on your terminal:
+
+```bash
+$ python --version
+```
 
 ```bash
 $ brew install python
