@@ -19,6 +19,9 @@ lectures:
       -
         title: "LECTURE 1: SLIDES"
         link: "resources/SP18/slides/LECTURE 1.pdf"
+      -
+        title: "LECTURE 1: VIDEO"
+        link: "https://drive.google.com/file/d/1SKTZucV_0EvIeBbWojQhONggGaXgdQ4M/view?usp=sharing"
     notes:
       -
         title: "LECTURE 1: NUMPY"
@@ -102,6 +105,9 @@ lectures:
       -
         title: "LECTURE 5: SLIDES"
         link: "resources/SP18/slides/LECTURE 5.pdf"
+      -
+        title: "LECTURE 5: VIDEO"
+        link: "https://drive.google.com/file/d/1MJpaTmtm6_3WWfUQ5dngO8KdMcioUeqV/view?usp=sharing"
     notes:
       -
         title: "LECTURE 5: SVM"
