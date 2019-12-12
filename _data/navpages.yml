@@ -12,3 +12,5 @@
   external: true
 - path: archives.md
   name: Archives
+- path: interactive.md
+  name: Interactive 

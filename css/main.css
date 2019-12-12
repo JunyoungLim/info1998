@@ -142,3 +142,15 @@ blockquote {
   background-color: #f2f7ff;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* interactive graphs */
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #ccc;
+  shape-rendering: crispEdges;
+}
